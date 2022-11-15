@@ -2,9 +2,9 @@
 End to End framework using Restassured | Cucumber BDD |Java | Selenium which covers the Backend and Frontend scenarios for CoinMarketCap website
 
 Prerequisites to run:
+-Clone the project
+-All the dependencies should be downloaded and should be in sync
 
-Clone the project
-All the dependencies should be downloaded and should be in sync
 System Prerequisites: Maven, Java
 
 Feature file coverage:
@@ -12,10 +12,12 @@ Feature file coverage:
 ![image](https://user-images.githubusercontent.com/118114531/201904818-c180a9d4-4188-4a63-83a1-6055a73f9387.png)
 
 Steps to execute the test:
+1. Run as junit test
 
-Run as junit test
-Click on src/test/java/runners/TestRunner.java
-Click Run
+2. Click on src/test/java/runners/TestRunner.java
+
+3. Click Run
+
 ![image](https://user-images.githubusercontent.com/118114531/201904942-47995f5e-ef09-4e19-9923-d8d24026fdfa.png)
 Reports will available at folder : target/reports. Below is screenshot of sample report 
 ![image](https://user-images.githubusercontent.com/118114531/201905013-9afd91e8-0721-431a-bda0-6a98df5c992f.png)
